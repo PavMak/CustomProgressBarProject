@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="custom_progress_bar_width">325dp</dimen>
+    <dimen name="custom_progress_bar_height">10dp</dimen>
+    <dimen name="custom_progress_bar_radius">10dp</dimen>
+    <dimen name="custom_progress_bar_padding_left">20dp</dimen>
+    <dimen name="custom_progress_bar_text_size">12sp</dimen>
+    <dimen name="custom_progress_bar_text_padding_bottom">10dp</dimen>
+</resources>

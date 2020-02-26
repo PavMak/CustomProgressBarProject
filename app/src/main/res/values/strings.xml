@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomProgressBarProject</string>
+
+    <string name="deposit_high_interest_first_value" formatted="true">%1$d ₽(%2$s%%)</string>
+</resources>

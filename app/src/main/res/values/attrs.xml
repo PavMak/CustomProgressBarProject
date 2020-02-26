@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressView">
+        <attr name="customHeight" format="dimension|reference"/>
+        <attr name="radius" format="dimension|reference"/>
+        <attr name="paddingLeft" format="dimension|reference"/>
+        <attr name="textBottomPadding" format="dimension|reference"/>
+        <attr name="textSize" format="dimension|reference"/>
+        <attr name="mainColor" format="color|reference"/>
+        <attr name="progressColor" format="color|reference"/>
+        <attr name="textAppearance" format="reference"/>
+    </declare-styleable>
+</resources>
